@@ -1,0 +1,5 @@
+{
+    "sketch": "arduino-byte-learn.ino",
+    "output": "build",
+    "board": "arduino:avr:circuitplay32u4cat"
+}
