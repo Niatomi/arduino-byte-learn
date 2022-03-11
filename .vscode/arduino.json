@@ -1,5 +1,7 @@
 {
     "sketch": "arduino-byte-learn.ino",
     "output": "build",
-    "board": "arduino:avr:circuitplay32u4cat"
+    "board": "arduino:avr:uno",
+    "port": "COM3",
+    "programmer": "arduino:avrispmkii"
 }

@@ -16,7 +16,7 @@
             "intelliSenseMode": "gcc-x64",
             "includePath": [
                 "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\cores\\arduino",
-                "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\variants\\circuitplay32u4",
+                "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\variants\\standard",
                 "c:\\program files (x86)\\arduino\\hardware\\tools\\avr\\lib\\gcc\\avr\\7.3.0\\include",
                 "c:\\program files (x86)\\arduino\\hardware\\tools\\avr\\lib\\gcc\\avr\\7.3.0\\include-fixed",
                 "c:\\program files (x86)\\arduino\\hardware\\tools\\avr\\avr\\include"
@@ -27,14 +27,10 @@
             "cStandard": "c11",
             "cppStandard": "c++11",
             "defines": [
-                "F_CPU=8000000L",
+                "F_CPU=16000000L",
                 "ARDUINO=10819",
-                "ARDUINO_AVR_CIRCUITPLAY",
+                "ARDUINO_AVR_UNO",
                 "ARDUINO_ARCH_AVR",
-                "USB_VID=0x239A",
-                "USB_PID=0x8011",
-                "USB_MANUFACTURER=\"Adafruit\"",
-                "USB_PRODUCT=\"Circuit Playground\"",
                 "__DBL_MIN_EXP__=(-125)",
                 "__HQ_FBIT__=15",
                 "__cpp_attributes=200809",
